@@ -1,5 +1,5 @@
 # Project Information
-set(PROJECT_NAME "Starter Kit - C++ Scripts")
+set(PROJECT_NAME "OOP Lab Report C++")
 set(SCRIPTS_DIR "Scripts")
 set(LIBRARY_DIR "Library")
 
